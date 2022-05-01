@@ -62,7 +62,7 @@ This challenge really helped me better understand coding for accessibility and t
 
 ### Continued development
 
-The page now has high scores for Accessibility and Best Practices in the Chrome Dev Tools Lighthouse utility, but still scores low in SEO, and Performance. Moving forward I would like to work on improving site performance, and increasing SEO scores.
+The page now has high scores for Accessibility and Best Practices in the Chrome Dev Tools Lighthouse utility, but still scores low in SEO, and Performance. Moving forward I would like to work on improving site performance, and increasing SEO scores as well as making the page fully responsive.
 
 ### Useful resources
 
